@@ -62,7 +62,7 @@ $σ'(z)= σ(z)(1-σ(z))$
 
 c. Negative log likelihood or Cross-entropy loss
 
-![math equation](https://quicklatex.com/cache3/e7/ql_10d93c7c03c0c8dfdf724221b71404e7_l3.png)
+![math equation](https://quicklatex.com/cache3/e4/ql_95c5f71e61d6398d0bd114805caa3ae4_l3.png)
 
 
 
