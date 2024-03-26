@@ -32,7 +32,7 @@ b. Criterion/ Loss function
    
 Since we have a continuous label, this problem is essentially a regression one and we can use a mean squared error loss.
 
-This is given as $$L(\theta) = \frac{1}{N}∑(y - {\bar y})^2$$
+This is given as $$L(\theta) = \frac{1}{N}∑(y - {\hat y})^2$$
 where $y$ is the targets and $\bar y$ is the output of our hypothesis
 
 c. Gradient descent
